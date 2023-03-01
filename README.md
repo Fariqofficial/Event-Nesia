@@ -1,9 +1,6 @@
 # Eventnesia
 
-Eventnesia is the final project of the dicoding class which is Belajar Membuat Aplikasi Flutter Untuk Pemula
-
-# About Eventnesia
-Eventnesia is an application to view a list of events in Indonesia, this application is made with a listview builder.
+Eventnesia is the final project of the dicoding class which is "Belajar Membuat Aplikasi Flutter Untuk Pemula". Eventnesia is an application to view a list of events in Indonesia, this application is made with a listview builder.
 
 # Eventnesia Features :
 
